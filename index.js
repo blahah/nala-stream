@@ -1,4 +1,4 @@
-var processor = require('./processor')
+var processor = require('./preprocess')
 var through = require('through2').obj
 
 const nalaify = opts => {
