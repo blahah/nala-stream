@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>nala-stream</h1>
-  <h2>streaming natural language processing</h2>
+  <h2>WIP - very simple opinionated streaming natural language processing</h2>
   <p>
     <a href="https://npmjs.com/packages/nala-stream" alt="npm package">
       <img src="https://img.shields.io/npm/v/nala-stream.svg?style=flat-square">
